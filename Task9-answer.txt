@@ -1,9 +1,3 @@
-9. *Не набирая код в IDE, ответьте на следующий вопрос. Есть два метода:
-void myMethod(int a, String b) {}
-void myMethod(String b, int a) {}
+Answer:
 
-Это две разных сигнатуры одного метода или один и тот же метод?
-
-Ответ:
-
-Да, это две разных сигнатуры одного метода.
+Yes, this is two different signatures of the same method.

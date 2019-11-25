@@ -1,3 +1,0 @@
-Answer:
-
-Yes, this is two different signatures of the same method.

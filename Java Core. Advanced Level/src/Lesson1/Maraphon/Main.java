@@ -17,8 +17,8 @@ public class Main {
                 new Robot("KozaniyMeshok")
         };
         Obstacle[] obstacles ={
-                new Wall(4),
-                new Cross(800)
+                new Wall(10),
+                new Cross(3000)
         };
         for ( Competitor c:competitors ) {
             for (Obstacle o:obstacles ) {

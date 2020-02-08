@@ -16,7 +16,7 @@ public class Robot implements Competitor{
     }
 
     public Robot(String name) {
-        this(name,500,10);
+        this(name,2000,2);
     }
 
     @Override

@@ -20,4 +20,8 @@ public class GameButton extends JButton {
     public GameBoard getBoard(){
         return board;
     }
+
+    public int getButtonIndex() {
+        return buttonIndex;
+    }
 }

@@ -20,6 +20,8 @@ public class Cat {
         fed = catBowl.decreaseFood(appetite);
     }
 
+
+
     public void info() {
         System.out.println(name + " " + (fed ? " full " : " hungry "));
     }

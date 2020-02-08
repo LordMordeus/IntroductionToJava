@@ -19,6 +19,7 @@ public class CatBowl {
         }
     }
 
+
     public void info() {
         System.out.println("plate " + food);
     }

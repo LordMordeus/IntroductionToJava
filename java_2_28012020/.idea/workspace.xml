@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cc4912c-56bc-4ffe-849f-93ea053ebe64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_2_28012020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/META-INF/java_2_28012020.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Jumpable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Main$1LocalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Outer$MyStaticClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/Sleepable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/SpeedJumpable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/competitors/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/competitors/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/competitors/Competitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/competitors/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/competitors/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/obstacle/Cross.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/obstacle/Obstacle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/obstacle/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/maraphon/obstacle/Water.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/memory/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/memory/Motorcicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/memory/Traktor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_2_28012020/lesson1/memory/Transport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Jumpable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/Sleepable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/SpeedJumpable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/competitors/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/competitors/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/competitors/Competitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/competitors/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/competitors/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/obstacle/Cross.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/obstacle/Obstacle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/obstacle/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/maraphon/obstacle/Water.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/memory/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/memory/Motorcicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/memory/Traktor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson1/memory/Transport.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XWsJLhMe0dEWh3OnGZV4IFYoaT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java Core. Advanced Level" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc4912c-56bc-4ffe-849f-93ea053ebe64" name="Default Changelist" comment="" />
+      <created>1581173111934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581173111934</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1581173147916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581173147916" />
+  </component>
+</project>

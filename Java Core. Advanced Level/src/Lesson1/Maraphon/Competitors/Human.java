@@ -2,7 +2,6 @@ package Lesson1.Maraphon.Competitors;
 
 public class Human implements Competitor{
     String name;
-
     int maxRunDistance;
     int maxJumpHeight;
 

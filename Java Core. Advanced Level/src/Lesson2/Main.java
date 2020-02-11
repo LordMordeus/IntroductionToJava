@@ -21,9 +21,7 @@ public class Main {
             System.out.println("Invalid array value!");
             System.out.println("Cell error: " + e.i + "x" + e.j);
         }
-
     }
-
 
     public static int arraySum(String[][] arr) throws MySizeArrayException, MyArrayDataException {
         int count = 0;
@@ -42,9 +40,7 @@ public class Main {
                     throw new MyArrayDataException(i, j);
                 }
             }
-
         }
         return count;
     }
-
 }

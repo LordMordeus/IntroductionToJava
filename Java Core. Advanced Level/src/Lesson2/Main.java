@@ -4,12 +4,16 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String[][] arr = new String[][]{{"5", "5", "3", "1",}, {"23", "11", "6", "13"}, {"31", "22", "3", "12"}, {"21", "6", "13", "28"}};
+        String[][] myArray = new String[][]{
+                {"5", "5", "3", "1"},
+                {"23", "11", "6", "13"},
+                {"31", "22", "3", "12"},
+                {"21", "6", "13", "28"}};
         try {
             try {
-                int sumResult = arraySum(arr);
+                int sumResult = arraySum(myArray);
                 System.out.println(sumResult);
-            } catch (MyArraySizeException e) {
+            } catch (MySizeArrayException e) {
                 System.out.println("Array size exceeded!");
             }
         }
@@ -21,14 +25,14 @@ public class Main {
     }
 
 
-    public static int arraySum(String[][] arr) throws MyArraySizeException, MyArrayDataException {
+    public static int arraySum(String[][] arr) throws MySizeArrayException, MyArrayDataException {
         int count = 0;
         if (arr.length != 4) {
-            throw new MyArraySizeException();
+            throw new MySizeArrayException();
         }
         for (int i = 0; i < arr.length; i++) {
             if (arr[i].length != 4) {
-                throw new MyArraySizeException();
+                throw new MySizeArrayException();
             }
             for (int j = 0; j < arr[i].length; j++) {
                 try {
